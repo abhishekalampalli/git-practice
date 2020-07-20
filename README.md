@@ -1,3 +1,3 @@
 # git-practice
 
-Welcome Alok Kumar!
+Welcome Alok!
